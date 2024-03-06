@@ -1,2 +1,2 @@
-# txt = "hello world" [: :-1] 
-# print (txt)
+txt = "hello world" [: :-1] 
+print (txt)

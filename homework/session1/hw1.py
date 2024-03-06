@@ -1,7 +1,7 @@
-# celsius = float(input("Enter the temperature: "))
+celsius = float(input("Enter the temperature: "))
 
-# fahrenheit = (celsius * 1.8) +32
+fahrenheit = (celsius * 1.8) +32
 
-# print (str(celsius )+ "the celsisus equal to " + str(fahrenheit ) + "degree fahrenheit")
+print (str(celsius )+ "the celsisus equal to " + str(fahrenheit ) + "degree fahrenheit")
 
 
